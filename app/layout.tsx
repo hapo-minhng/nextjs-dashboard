@@ -1,7 +1,6 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
 import { Metadata } from 'next';
-import { URLPattern } from 'next/server';
 
 export const metadata: Metadata = {
   title: {
